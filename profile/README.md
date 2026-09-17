@@ -1,33 +1,32 @@
 <div align="center">
 
 # Salixia Holdings
+[**www.salixia.co**](https://www.salixia.co/)
 
 **Focused companies. Shared infrastructure. Built to compound.**
 
 Salixia Holdings is the parent organization for a group of operating companies spanning technology, products, field services, and outdoor ventures.
 
-[**salixia.co**](https://salixia.co/) · [**Salixia Web & Cloud**](https://www.salixia.io/) · [**Salixia Skunkworks**](https://salixiaskunkworks.io/) · [**Nico Tree Co.**](https://nicotreeco.com/) · [**Salixia Outdoors**](https://salixiaoutdoors.com/)
+[**Salixia Web & Cloud**](https://www.salixia.io/) · [**Salixia Skunkworks**](https://www.salixiaskunkworks.io/) · [**Nico Tree Co.**](https://www.nicotreeco.com/) · [**Salixia Outdoors**](https://www.salixiaoutdoors.com/)
 
 </div>
 
 ---
 
-## The Salixia group
+## Salixia Companies
 
 | Company | Focus |
 | --- | --- |
-| **[Salixia Web & Cloud](https://www.salixia.io/)** | Web platforms, cloud infrastructure, edge architecture, security, automation, and managed services. |
-| **[Salixia Skunkworks](https://salixiaskunkworks.io/)** | Product R&D, software, internal platforms, and ideas being pushed toward production. |
-| **[Nico Tree Co.](https://nicotreeco.com/)** | Tree service and field operations. |
-| **[Salixia Outdoors](https://salixiaoutdoors.com/)** | Outdoor ventures, products, and operations. |
+| **[Salixia Web & Cloud](https://www.salixia.io/)** | Cloudflare Partner for Resell and Manage, Edge Architecture, Cloud Insfrastructure, Automation, Digital Revenue Systems, Security, and Managed Services. |
+| **[Salixia Skunkworks](https://www.salixiaskunkworks.io/)** | Product R&D, software, internal platforms, and ideas being pushed toward production. |
+| **[Nico Tree Co.](https://www.nicotreeco.com/)** | Tree service and field operations. |
+| **[Salixia Outdoors](https://www.salixiaoutdoors.com/)** | Outdoor ventures, products, and operations. |
 
 ## Public engineering
 
 Public repositories are published from the shared **Salixia Holdings** namespace. The operating company responsible for each project is identified here so it is clear where the work lives inside the group.
 
 ### Salixia Web & Cloud
-
-**Web platforms · cloud infrastructure · edge · automation**
 
 | Repository | What it is |
 | --- | --- |
