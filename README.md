@@ -9,4 +9,4 @@ This repository contains public GitHub organization configuration for **Salixia 
 
 This repository is organization infrastructure rather than a Salixia product or service. Public engineering projects live in their own repositories and are associated with the Salixia operating company responsible for them on the organization profile and in project documentation.
 
-[**Salixia Holdings**](https://salixia.co/) · [**GitHub organization**](https://github.com/SalixiaHoldings)
+[**Salixia Holdings**](https://www.salixia.co/) · [**GitHub organization**](https://github.com/SalixiaHoldings)
